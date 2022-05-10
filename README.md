@@ -1,1 +1,1 @@
-# 2d-adventure-game
+# Minecraft-style 2D adventure game
